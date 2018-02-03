@@ -1,6 +1,8 @@
 body {
 	margin-top: 15px;
 	background-image: url(../image/bg.jpg) !important;
+	cursor: default;
+	background-attachment: fixed;
 }
 
 .container {
