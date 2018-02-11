@@ -62,7 +62,7 @@
 										<ul class="dropdown-menu">
 											<li id="drop_main"><a href="delivery.php">Доставка</a></li>
 											<li class="divider"></li>
-											<li id="drop_main"><a href="#">Оплата</a></li>
+											<li id="drop_main"><a href="pay.php">Оплата</a></li>
 										</ul>
 									</li>
 									<li><a href="return.php">Возврат</a></li>
@@ -305,7 +305,7 @@
 						<div class="col-md-6 col-md-offset-3 nav_footer" align="center">
 							<ul>
 								<li><a href="delivery.php">Доставка</a></li>
-								<li><a href="#">Оплата</a></li>
+								<li><a href="pay.php">Оплата</a></li>
 								<li><a href="return.php">Возврат</a></li>
 								<li><a href="contacts.php">Контакты</a></li>
 								<li><a href="aboutus.php">О нас</a></li>

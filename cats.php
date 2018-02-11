@@ -62,7 +62,7 @@
 										<ul class="dropdown-menu">
 											<li id="drop_main"><a href="delivery.php">Доставка</a></li>
 											<li class="divider"></li>
-											<li id="drop_main"><a href="#">Оплата</a></li>
+											<li id="drop_main"><a href="pay.php">Оплата</a></li>
 										</ul>
 									</li>
 									<li><a href="return.php">Возврат</a></li>
@@ -147,19 +147,19 @@
 					</div>
 					<div class="panel-body">
 						<div class="list-group">
-							<a href="#" class="list-group-item">KEMTNER<span class="badge">256</span></a>
-							<a href="#" class="list-group-item">FORD<span class="badge">88</span></a>
-							<a href="#" class="list-group-item">NISSAN<span class="badge">145</span></a>
-							<a href="#" class="list-group-item">MOTORCRAFT<span class="badge">29</span></a>
-							<a href="#" class="list-group-item">TOYOTA<span class="badge">20</span></a>
-							<a href="#" class="list-group-item">MITSUBISHI<span class="badge">20</span></a>
-							<a href="#" class="list-group-item">MAZDA<span class="badge">3</span></a>
-							<a href="#" class="list-group-item">HONDA<span class="badge">9</span></a>
-							<a href="#" class="list-group-item">GENERAL MOTORS<span class="badge">33</span></a>
-							<a href="#" class="list-group-item">BMW<span class="badge">9</span></a>
-							<a href="#" class="list-group-item">LAND ROVER<span class="badge">4</span></a>
-							<a href="#" class="list-group-item">RENAULT<span class="badge">51</span></a>
-							<a href="#" class="list-group-item">OPEL<span class="badge">5</span></a>
+							<a href="cats.php" class="list-group-item">KEMTNER<span class="badge">256</span></a>
+							<a href="cats.php" class="list-group-item">FORD<span class="badge">88</span></a>
+							<a href="cats.php" class="list-group-item">NISSAN<span class="badge">145</span></a>
+							<a href="cats.php" class="list-group-item">MOTORCRAFT<span class="badge">29</span></a>
+							<a href="cats.php" class="list-group-item">TOYOTA<span class="badge">20</span></a>
+							<a href="cats.php" class="list-group-item">MITSUBISHI<span class="badge">20</span></a>
+							<a href="cats.php" class="list-group-item">MAZDA<span class="badge">3</span></a>
+							<a href="cats.php" class="list-group-item">HONDA<span class="badge">9</span></a>
+							<a href="cats.php" class="list-group-item">GENERAL MOTORS<span class="badge">33</span></a>
+							<a href="cats.php" class="list-group-item">BMW<span class="badge">9</span></a>
+							<a href="cats.php" class="list-group-item">LAND ROVER<span class="badge">4</span></a>
+							<a href="cats.php" class="list-group-item">RENAULT<span class="badge">51</span></a>
+							<a href="cats.php" class="list-group-item">OPEL<span class="badge">5</span></a>
 						</div>
 					</div>
 				</div>
@@ -438,7 +438,7 @@
 						<div class="col-md-6 col-md-offset-3 nav_footer" align="center">
 							<ul>
 								<li><a href="delivery.php">Доставка</a></li>
-								<li><a href="#">Оплата</a></li>
+								<li><a href="pay.php">Оплата</a></li>
 								<li><a href="return.php">Возврат</a></li>
 								<li><a href="contacts.php">Контакты</a></li>
 								<li><a href="aboutus.php">О нас</a></li>

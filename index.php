@@ -150,19 +150,19 @@
 					</div>
 					<div class="panel-body">
 						<div class="list-group">
-							<a href="#" class="list-group-item">KEMTNER<span class="badge">256</span></a>
-							<a href="#" class="list-group-item">FORD<span class="badge">88</span></a>
-							<a href="#" class="list-group-item">NISSAN<span class="badge">145</span></a>
-							<a href="#" class="list-group-item">MOTORCRAFT<span class="badge">29</span></a>
-							<a href="#" class="list-group-item">TOYOTA<span class="badge">20</span></a>
-							<a href="#" class="list-group-item">MITSUBISHI<span class="badge">20</span></a>
-							<a href="#" class="list-group-item">MAZDA<span class="badge">3</span></a>
-							<a href="#" class="list-group-item">HONDA<span class="badge">9</span></a>
-							<a href="#" class="list-group-item">GENERAL MOTORS<span class="badge">33</span></a>
-							<a href="#" class="list-group-item">BMW<span class="badge">9</span></a>
-							<a href="#" class="list-group-item">LAND ROVER<span class="badge">4</span></a>
-							<a href="#" class="list-group-item">RENAULT<span class="badge">51</span></a>
-							<a href="#" class="list-group-item">OPEL<span class="badge">5</span></a>
+							<a href="cats.php" class="list-group-item">KEMTNER<span class="badge">256</span></a>
+							<a href="cats.php" class="list-group-item">FORD<span class="badge">88</span></a>
+							<a href="cats.php" class="list-group-item">NISSAN<span class="badge">145</span></a>
+							<a href="cats.php" class="list-group-item">MOTORCRAFT<span class="badge">29</span></a>
+							<a href="cats.php" class="list-group-item">TOYOTA<span class="badge">20</span></a>
+							<a href="cats.php" class="list-group-item">MITSUBISHI<span class="badge">20</span></a>
+							<a href="cats.php" class="list-group-item">MAZDA<span class="badge">3</span></a>
+							<a href="cats.php" class="list-group-item">HONDA<span class="badge">9</span></a>
+							<a href="cats.php" class="list-group-item">GENERAL MOTORS<span class="badge">33</span></a>
+							<a href="cats.php" class="list-group-item">BMW<span class="badge">9</span></a>
+							<a href="cats.php" class="list-group-item">LAND ROVER<span class="badge">4</span></a>
+							<a href="cats.php" class="list-group-item">RENAULT<span class="badge">51</span></a>
+							<a href="cats.php" class="list-group-item">OPEL<span class="badge">5</span></a>
 						</div>
 					</div>
 				</div>
@@ -217,7 +217,7 @@
 							</a>
 						</div>
 						<div class="col-md-4 product_container">
-							<a href="#" alt="Трос синий">
+							<a href="prod.php" alt="Трос синий">
 								<div class="product">
 									<div class="product_image"><img src="600 Логотип/KR1213025.jpg" alt=""></div>
 									<div class="product_name" align="center"><span>Трос синий</span></div>
@@ -225,7 +225,7 @@
 							</a>
 						</div>
 						<div class="col-md-4 product_container">
-							<a href="#" alt="Накладка ручки двери Focus 2">
+							<a href="prod.php" alt="Накладка ручки двери Focus 2">
 								<div class="product">
 									<div class="product_image"><img src="600 Логотип/KR1252267.jpg" alt=""></div>
 									<div class="product_name" align="center"><span>Накладка ручки двери Focus 2</span></div>
@@ -233,7 +233,7 @@
 							</a>
 						</div>
 						<div class="col-md-4 product_container">
-							<a href="#" alt="Рейка рулевая Focus 2/C-Max без отверстия под датчик">
+							<a href="prod.php" alt="Рейка рулевая Focus 2/C-Max без отверстия под датчик">
 								<div class="product">
 									<div class="product_image"><img src="600 Логотип/KR13003501.jpg" alt=""></div>
 									<div class="product_name" align="center"><span>Рейка рулевая Focus 2/C-Max без отверстия под датчик</span></div>
@@ -241,7 +241,7 @@
 							</a>
 						</div>
 						<div class="col-md-4 product_container">
-							<a href="#" alt="Гнездо внутренней ручки правой двери Focus 2">
+							<a href="prod.php" alt="Гнездо внутренней ручки правой двери Focus 2">
 								<div class="product">
 									<div class="product_image"><img src="600 Логотип/KR1316867.jpg" alt=""></div>
 									<div class="product_name" align="center"><span>Гнездо внутренней ручки правой двери Focus 2</span></div>
@@ -249,7 +249,7 @@
 							</a>
 						</div>
 						<div class="col-md-4 product_container">
-							<a href="#" alt="Гнездо внутренней ручки левой двери Focus 2">
+							<a href="prod.php" alt="Гнездо внутренней ручки левой двери Focus 2">
 								<div class="product">
 									<div class="product_image"><img src="600 Логотип/KR1316868.jpg" alt=""></div>
 									<div class="product_name" align="center"><span>Гнездо внутренней ручки левой двери Focus 2</span></div>
