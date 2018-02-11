@@ -1,0 +1,45 @@
+.return_container {
+	background-color: #01010266;
+	border-radius: 10px;
+	padding: 10px !important;
+}
+
+.return_container h2 {
+	color: white;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	font-family: 'Fira Sans', sans-serif;
+}
+
+.head_rule {
+	margin-bottom: 25px;
+}
+
+.head_rule span {
+	color: white;
+	font-family: 'Fira Sans', sans-serif;
+	font-size: 24px;
+}
+
+.head_rule img {
+	width: 40px;
+	height: 40px;
+	margin-right: 10px;
+}
+
+.return_rule {
+	margin-top: 10px;
+	padding-top: 8px !important;
+	padding-bottom: 8px !important;
+}
+
+.return_rule span {
+	font-family: 'Fira Sans', sans-serif;
+	font-size: 18px;
+	color: white;
+}
+
+.desc_return {
+	text-align: justify;
+}
